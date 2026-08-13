@@ -1,5 +1,6 @@
 # 1CCO19
-Materiales del curso de Pensamiento Computacional para Comunicaciones 2025-I
+Materiales del curso de Pensamiento Computacional para Comunicaciones 
+2024-I, 2024-II, 2025-I, 2025-II, 2026-I, 2026-II
 
 Página interactiva: https://pcc-interactivo.streamlit.app
 
