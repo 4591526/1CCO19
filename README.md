@@ -5,8 +5,8 @@ Materiales del curso de Pensamiento Computacional para Comunicaciones
 Página interactiva: https://pcc-interactivo.streamlit.app
 
 # Calendario
-- Semana 1: Tu primer código de Python
-- Semana 2: Variable y tipos de datos en Python
+- Semana 1: Mi primer código y variables en Python
+- Semana 2: Tipos de datos en Python
 - Semana 3: Expresiones booleanas y listas en Python
 - Semana 4: Listas y condicionales en Python
 - Semana 5: PC1
