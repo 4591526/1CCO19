@@ -6,8 +6,8 @@ Página interactiva: https://pcc-interactivo.streamlit.app
 
 # Calendario
 - Semana 1: Mi primer código y variables en Python
-- Semana 2: Tipos de datos en Python
-- Semana 3: Expresiones booleanas y listas en Python
+- Semana 2: Tipos de datos y operadores aritméticos en Python
+- Semana 3: Expresiones y operadores booleanos en Python
 - Semana 4: Listas y condicionales en Python
 - Semana 5: PC1
 - Semana 6: Bucles for-while y archivos *.txt*
